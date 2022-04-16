@@ -1,0 +1,14 @@
+/* #backgroud-image{
+    background-image: url(/public/images/bannerbackground.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100vw;
+} */
+#backgroud-image{
+    background-image: url(/public/images/bannerbackground.png);
+    background-repeat: no-repeat;
+    /* background-position: center;
+    background-size:100vw; */
+    background-size: 100%;
+    background-position: center;
+}
